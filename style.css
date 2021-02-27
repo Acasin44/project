@@ -14,3 +14,12 @@ div {
 .bg-color-white{
     background-color: white;
 }
+
+.border-1-radius-5{
+    background-color: #ed710a;
+    color: #cda833;
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;    
+}
