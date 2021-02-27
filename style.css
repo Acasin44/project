@@ -4,3 +4,13 @@ body{
     background-color: gray;
     font-family: 'Prompt', sans-serif;
 }
+div {
+    color: black;
+}
+
+.bg-color-red{
+    background-color: red;
+}
+.bg-color-white{
+    background-color: white;
+}
